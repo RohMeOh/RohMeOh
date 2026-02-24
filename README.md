@@ -1,9 +1,9 @@
 # ¡Hola! I'm Romeo!
 
-<p align="center">
+<h3 align="center">
 <em>"If you don’t take risks, you can’t create a future."</em><br>
 — <a href="https://onepiece.fandom.com/wiki/Monkey_D._Luffy">Monkey D. Luffy</a>
-</p>
+</h3>
 
 ## About me:
 
