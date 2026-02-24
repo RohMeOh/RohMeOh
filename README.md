@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! I'm Romeo!
 
-<!--
-**RohMeOh/RohMeOh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<em>"If you don’t take risks, you can’t create a future."</em><br>
+— <a href="https://onepiece.fandom.com/wiki/Monkey_D._Luffy">Monkey D. Luffy</a>
+</p>
 
-Here are some ideas to get you started:
+## About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏖️ From [Cataño, Puerto Rico.](https://en.wikipedia.org/wiki/Cata%C3%B1o,_Puerto_Rico)
+
+💻 Currently studying programming @ [Holberton, San Juan.](https://holbertonschoolpr.com)
+
+🐒 Aspiring code monkey.
+
+🧠 Fully bilingual - español & inglés.
+
+
+## Fun facts:
+
+🏴‍☠️ [One Piece](https://onepiece.fandom.com/wiki/One_Piece_Wiki) fan.
+
+🎮 Video Game enthusiast.
+
+🧙‍♂️ [Dungeons and Dragons](https://en.wikipedia.org/wiki/Dungeons_%26_Dragons) enjoyer.
+
+🥤 [Dr. Pepper](https://www.drpepper.com) drinker.
