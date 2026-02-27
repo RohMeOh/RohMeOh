@@ -11,8 +11,6 @@
 
 💻 Currently studying programming @ [Holberton, San Juan.](https://holbertonschoolpr.com)
 
-🐒 Aspiring code monkey.
-
 🧠 Fully bilingual - español & inglés.
 
 
